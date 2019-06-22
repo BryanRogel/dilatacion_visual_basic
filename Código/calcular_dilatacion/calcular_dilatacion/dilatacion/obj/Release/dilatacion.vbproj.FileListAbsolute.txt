@@ -13,3 +13,14 @@ C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\dilatacion\bin\
 C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\dilatacion\obj\Release\dilatacion.exe
 C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\dilatacion\obj\Release\dilatacion.xml
 C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\dilatacion\obj\Release\dilatacion.pdb
+C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\calcular_dilatacion\calcular_dilatacion\dilatacion\bin\Release\dilatacion.exe.config
+C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\calcular_dilatacion\calcular_dilatacion\dilatacion\obj\Release\dilatacion.exe
+C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\calcular_dilatacion\calcular_dilatacion\dilatacion\obj\Release\dilatacion.xml
+C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\calcular_dilatacion\calcular_dilatacion\dilatacion\obj\Release\dilatacion.pdb
+C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\calcular_dilatacion\calcular_dilatacion\dilatacion\bin\Release\dilatacion.exe
+C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\calcular_dilatacion\calcular_dilatacion\dilatacion\bin\Release\dilatacion.pdb
+C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\calcular_dilatacion\calcular_dilatacion\dilatacion\bin\Release\dilatacion.xml
+C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\calcular_dilatacion\calcular_dilatacion\dilatacion\obj\Release\dilatacion.vbprojResolveAssemblyReference.cache
+C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\calcular_dilatacion\calcular_dilatacion\dilatacion\obj\Release\dilatacion.Dilatación.resources
+C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\calcular_dilatacion\calcular_dilatacion\dilatacion\obj\Release\dilatacion.Resources.resources
+C:\Users\NIGHTWING38\Desktop\git\dilatacion_visual_basic\Código\calcular_dilatacion\calcular_dilatacion\dilatacion\obj\Release\dilatacion.vbproj.GenerateResource.Cache
